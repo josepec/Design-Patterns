@@ -5,7 +5,7 @@
 
 ### Factory Method 
 
- 
+ ![](https://github.com/josepec/Design-Patterns/blob/master/img/1.png)
 
 Define una interfaz de creación de un tipo de objeto y permite a las subclases del mismo decidir que tipo de instancia concreta necesita. Se utiliza cuando necesitamos crear la instancia de un objeto que a priori no sabemos que tipo va a ser. 
 
